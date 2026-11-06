@@ -2,8 +2,10 @@
 # LangChain
 langchain==1.0.5
 
+
 # OpenRouter integration
 langchain-openai
+langchain-openrouter==0.2.8
 
 # LangGraph workflow
 langgraph==1.0.3
